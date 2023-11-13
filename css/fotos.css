@@ -1,0 +1,29 @@
+main img{
+    display:block;
+    margin: 50px auto auto auto;
+}
+
+.fotofeid1{
+    width: 180px;
+    height: 256px;
+    border-radius:50%;
+    border: 4px solid black;
+}
+
+.fotofeid2{
+    width: 300px;
+    height: 256px;
+    border-radius:50%;
+    border: 4px solid black;
+}
+
+.fotofeid3{
+    width: 256px;
+    height: 256px;
+    border-radius:50%;
+    border: 4px solid black;
+}
+
+h1{
+    text-align:center;
+}

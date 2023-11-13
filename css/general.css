@@ -1,0 +1,9 @@
+main article{
+    text-align:center;
+    margin:50px;
+}
+
+article p{
+    padding:25px;
+    border: 2px solid black;
+}

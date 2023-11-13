@@ -1,0 +1,82 @@
+h3{
+    font-family: 'DM Serif Display', serif;
+}
+
+h1{
+    font-family: 'DM Serif Display', serif;
+    font-size:50px;
+    text-align: center;
+}
+
+article{
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+body {
+    background-color: lightgreen;
+    margin: 100px 0 0 0;
+    padding:0;
+}
+
+.fanClubLogo
+{
+    height: 256px;
+    width: 256px;
+    margin: auto;
+    display: block;
+    border: 4px solid black;
+}
+
+
+nav ul{
+    list-style-type: none;
+    position: fixed;
+    margin:0;
+    padding:0;
+    width:100%;
+    top: 0;
+    overflow: hidden;
+    background-color:rgba(3, 3, 3, 75%) ;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+li{float: left;}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{background-color: #111;}
+
+a img{
+    height:48px;
+    width:48px;
+    margin:auto;
+    display: inline;
+}
+
+.instagram{
+    height:48px;
+    width:48px; 
+    margin-left:45%;
+    
+}
+
+.twitter{
+    height:48px;
+    width:48px; 
+}
+
+.youtube{
+    height:44px;
+    width:60px; 
+}
+
+footer p{
+    text-align: center;
+    font-size: larger;
+}

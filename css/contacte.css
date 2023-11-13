@@ -1,0 +1,12 @@
+body{
+    margin:0;
+}
+p{
+    text-align: center;
+    font-weight: 900;
+}
+
+iframe{
+    display: block;
+    margin:auto;
+}
